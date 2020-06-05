@@ -1,0 +1,51 @@
+
+
+/* contact form */
+
+.form-box {
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    background: #ffffff;
+    border: 10px solid #f2f2f2;
+  }
+  
+  h1, p {
+    text-align: center;
+  }
+  
+  input, textarea {
+    width: 100%;
+  }
+  /* contact form end */
+ 
+
+
+ 
+  .carousel-inner img{
+margin-left: 90px;
+
+  }
+
+
+ 
+  .table {
+    /* margin: 0 auto !important;  */
+    width: 65% !important;
+    border: 1px solid gray !important;
+  } 
+
+ 
+.nav-item{
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+font-weight: bold;
+
+} 
+.dropdown-item
+{font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: bold;
+  
+
+}
